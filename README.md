@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cilie</h1>
 <h3 align="center">PhD student a little while longer and perpetual learner</h3>
 
-- 🔭 I’m currently working on **Riemannian Brownian Motion**
+🔭 I’m currently working on **Riemannian Brownian Motion** and **Scalable Gaussian Process Decoders**
 
 
 
